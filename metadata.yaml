@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8689
     wikipedia: http://en.wikipedia.org/wiki/George_E._Waring,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31105#The-Elements-of-AgricultureA-Book-for-Young-Farmers-with-Questions-Prepared-for-the-Use-of-Sc_
 gutenberg_issued: '2010-01-27'
 gutenberg_type: Text
 identifiers:
